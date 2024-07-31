@@ -1,0 +1,8 @@
+__pycache__/
+
+# Debug Files
+cli_arg_test.py
+console_text.py
+example_response.html
+html_output.html
+output.txt
