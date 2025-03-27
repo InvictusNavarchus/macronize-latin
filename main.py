@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import pyperclip
 from submit_form import submit_form
